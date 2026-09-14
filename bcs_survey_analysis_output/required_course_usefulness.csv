@@ -1,0 +1,9 @@
+course,rated_n,mean_usefulness_1_to_5,median_usefulness_1_to_5,very_useful_n,useful_n,somewhat_useful_n,not_useful_n,not_at_all_useful_n,did_not_take_or_remember_n
+BCSC 110 Neural Foundations of Behavior,5,3.8,4.0,2,2,0,0,1,1
+Intro to Statistics class,4,3.75,4.5,2,1,0,0,1,2
+BCSC 111 Foundations of Cognitive Science,5,3.2,3.0,1,1,2,0,1,1
+BCSC 151 Perception & Action,5,3.0,4.0,1,2,0,0,2,1
+BCSC 153 Cognition,5,2.8,4.0,0,3,0,0,2,1
+BCSC 310 Senior Seminar,4,2.75,2.5,1,1,0,0,2,2
+"BCSC Lab (204, 205, 206 etc.)",3,2.3333333333333335,1.0,1,0,0,0,2,3
+BCSC 152 Language & Psycholinguistics,4,2.25,2.0,0,1,1,0,2,2

@@ -1,0 +1,47 @@
+course,rated_n,mean_usefulness_1_to_5,median_usefulness_1_to_5,very_useful_n,useful_n,somewhat_useful_n,not_useful_n,not_at_all_useful_n,did_not_take_or_remember_n
+BCSC 259 Language Development,2,5.0,5.0,2,0,0,0,0,5
+BCSC 221 Auditory Perception,1,5.0,5.0,1,0,0,0,0,6
+BCSC 232 Artificial Intelligence,1,5.0,5.0,1,0,0,0,0,6
+BCSC 246 Biology of Mental Disorders,2,4.5,4.5,1,1,0,0,0,5
+BCSC 262 Understanding Reading,2,4.5,4.5,1,1,0,0,0,5
+BCSC 271 Autism and Other Intellectual and Developmental Disabilities,2,4.5,4.5,1,1,0,0,0,5
+BCSC 393 BCS Honors Thesis,2,4.5,4.5,1,1,0,0,0,5
+BCSC 395 Independent Research,2,4.5,4.5,1,1,0,0,0,5
+BCSC 170 Child Development,2,4.0,4.0,1,0,1,0,0,5
+BCSC 220 The Intelligent Eye,2,4.0,4.0,1,0,1,0,0,5
+BCSC 243 Neurochemical Foundations of Behavior,2,4.0,4.0,0,2,0,0,0,5
+BCSC 247 Intro to Computational Neuroscience,2,4.0,4.0,1,0,1,0,0,5
+BCSC 261 Language Use & Understanding,2,4.0,4.0,0,2,0,0,0,5
+BCSC 278 Social Neuroscience,2,4.0,4.0,0,2,0,0,0,5
+BCSC 163 Cognition & Writing,1,4.0,4.0,0,1,0,0,0,6
+BCSC 233 Statistical Speech & Language Processing,1,4.0,4.0,0,1,0,0,0,6
+BCSC 240P Basic Neurobiology Lab,1,4.0,4.0,0,1,0,0,0,6
+"BCSC 241 Neurons, Circuits, & Systems",1,4.0,4.0,0,1,0,0,0,6
+BCSC 245 Sensory & Motor Neuroscience,1,4.0,4.0,0,1,0,0,0,6
+BCSC 248 Neuroeconomics,1,4.0,4.0,0,1,0,0,0,6
+BCSC 249 Developmental Neurobiology,1,4.0,4.0,0,1,0,0,0,6
+BCSC 250 Brain in Action,1,4.0,4.0,0,1,0,0,0,6
+BCSC 251 Neurobiology of Sleep,1,4.0,4.0,0,1,0,0,0,6
+BCSC 252 Functional Neuroanatomy,1,4.0,4.0,0,1,0,0,0,6
+BCSC 257 Advanced Computational Neuroscience,1,4.0,4.0,0,1,0,0,0,6
+BCSC 263 Second-language Speech Perception and Word Recognition,1,4.0,4.0,0,1,0,0,0,6
+BCSC 264 Sign Language Structure,1,4.0,4.0,0,1,0,0,0,6
+BCSC 265 Language and the Brain,1,4.0,4.0,0,1,0,0,0,6
+BCSC 266 Speech on the Brain,1,4.0,4.0,0,1,0,0,0,6
+BCSC 267 Adaptive Processes in Speech Perception,1,4.0,4.0,0,1,0,0,0,6
+BCSC 275 Philosophy of Brain and Cognitive Science,1,4.0,4.0,0,1,0,0,0,6
+BCSC 279 Cognitive Neuroscience of Education & Parenting,1,4.0,4.0,0,1,0,0,0,6
+BCSC 280 Advanced Topics in Cognitive Neuroscience,1,4.0,4.0,0,1,0,0,0,6
+BCSC 311 Honors Seminar,1,4.0,4.0,0,1,0,0,0,6
+BCSC 390 Supervised Teaching,1,4.0,4.0,0,1,0,0,0,6
+BCSC 391 Independent Study,1,4.0,4.0,0,1,0,0,0,6
+BCSC 395W Independent Research,1,4.0,4.0,0,1,0,0,0,6
+BCSC 172 Development of Mind & Brain,4,3.75,3.5,1,1,2,0,0,3
+BCSC 242 Neuropsychology,4,3.75,4.5,2,1,0,0,1,3
+BCSC 240 Basic Neurobiology,4,3.5,4.0,2,0,1,0,1,3
+BCSC 183 Animal Minds,2,3.0,3.0,0,0,2,0,0,5
+BCSC 260 Music & the Mind,2,3.0,3.0,0,0,2,0,0,5
+BCSC 244 Neuroethology,2,2.5,2.5,0,1,0,0,1,5
+BCSC 185 Social Cognition,1,1.0,1.0,0,0,0,0,1,6
+BCSC 215 Introduction to Matlab,1,1.0,1.0,0,0,0,0,1,6
+BCSC 236 Machine Vision,1,1.0,1.0,0,0,0,0,1,6
